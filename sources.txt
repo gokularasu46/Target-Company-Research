@@ -1,0 +1,21 @@
+# Data Sources and References
+
+1. **Company Official Websites**:
+   Primary source of truth for verifying manufacturing locations, product segments, and engineering career opportunities. Used to confirm R&D center locations vs. pure sales offices.
+
+2. **LinkedIn (Company Pages & Employee Profiles)**:
+   Used to verify if companies have actual engineering operations in Chennai by checking the presence of Mechanical, ECE, and Instrumentation engineering roles based in the city.
+
+3. **IndiaMART & Trade Directories**:
+   Used for initial lead generation of industrial instrumentation and medical equipment manufacturers in Tamil Nadu.
+
+4. **Industry News Portals**:
+   - The Hindu Business Line
+   - Autocar Professional (for auto-sensors)
+   - Electronics For You (EFY)
+   - Medical Device Network
+   Consulted to verify new manufacturing plant inaugurations (e.g., Pegatron, Salcomp, Foxconn in Sriperumbudur/Chengalpattu).
+
+5. **Government & Industrial Park Listings**:
+   - SIPCOT (State Industries Promotion Corporation of Tamil Nadu) maps for Oragadam and Sriperumbudur to verify tenant companies.
+   - MEPZ (Madras Export Processing Zone) listings.
